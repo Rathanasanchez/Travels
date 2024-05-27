@@ -1,5 +1,5 @@
 - [Demo Project]( https://ladan-hazrati-web.github.io/template-travel-agency/)
 
-- Developed by ladan hazrati
+- Developed by Rathana SanchezZ
 
-- Created - 2023-11-01
+- Created - 2024
